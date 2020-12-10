@@ -1,0 +1,26 @@
+printjson(db.people.insertOne(
+    {  "sex":"Female",
+    "first_name":"Katarzyna",
+    "last_name":"Rymsza",
+    "job":"programmist",
+    "email":"s22011@pjwstk.edu.pl",
+    "location":{
+        "city":"London",
+        "address":{
+            "streetname":"Beilfuss",
+            "streetnumber":"860"
+        }
+    },
+    "description":"",
+    "height":"158.00",
+    "weight":"66.81",
+    "birth_date":"1997-12-08T02:55:03Z",
+    "nationality":"Poland",
+    "credit":[{
+        "type":"switch",
+        "number":"123456789009876",
+        "currency":"COP",
+        "balance":"5344117.06"
+        }]
+    }
+))
