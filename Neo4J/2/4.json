@@ -1,0 +1,202 @@
+﻿[
+  {
+    "Airport": "SEA",
+    "FlightCounter": 3
+  },
+  {
+    "Airport": "EWR",
+    "FlightCounter": 7
+  },
+  {
+    "Airport": "IAH",
+    "FlightCounter": 23
+  },
+  {
+    "Airport": "SAT",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "MCO",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "LAX",
+    "FlightCounter": 22
+  },
+  {
+    "Airport": "FLL",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "ORD",
+    "FlightCounter": 48
+  },
+  {
+    "Airport": "MSP",
+    "FlightCounter": 9
+  },
+  {
+    "Airport": "KOA",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "PDX",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "SFO",
+    "FlightCounter": 14
+  },
+  {
+    "Airport": "IAD",
+    "FlightCounter": 12
+  },
+  {
+    "Airport": "SMF",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "RIC",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "IND",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "BOS",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "DEN",
+    "FlightCounter": 18
+  },
+  {
+    "Airport": "DFW",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "SLC",
+    "FlightCounter": 5
+  },
+  {
+    "Airport": "MCI",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "MSN",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "SNA",
+    "FlightCounter": 2
+  },
+  {
+    "Airport": "HNL",
+    "FlightCounter": 5
+  },
+  {
+    "Airport": "SAN",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "LAS",
+    "FlightCounter": 2
+  },
+  {
+    "Airport": "ATL",
+    "FlightCounter": 2
+  },
+  {
+    "Airport": "CMH",
+    "FlightCounter": 2
+  },
+  {
+    "Airport": "SJC",
+    "FlightCounter": 2
+  },
+  {
+    "Airport": "PHX",
+    "FlightCounter": 3
+  },
+  {
+    "Airport": "BIL",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "LGA",
+    "FlightCounter": 2
+  },
+  {
+    "Airport": "ROC",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "CLT",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "DCA",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "BHM",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "BNA",
+    "FlightCounter": 12
+  },
+  {
+    "Airport": "CVG",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "PBI",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "MIA",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "ABQ",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "FAT",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "TUS",
+    "FlightCounter": 2
+  },
+  {
+    "Airport": "DLH",
+    "FlightCounter": 4
+  },
+  {
+    "Airport": "FSD",
+    "FlightCounter": 5
+  },
+  {
+    "Airport": "MOB",
+    "FlightCounter": 1
+  },
+  {
+    "Airport": "SBN",
+    "FlightCounter": 3
+  },
+  {
+    "Airport": "AZO",
+    "FlightCounter": 13
+  },
+  {
+    "Airport": "DTW",
+    "FlightCounter": 25
+  },
+  {
+    "Airport": "MOT",
+    "FlightCounter": 8
+  }
+]

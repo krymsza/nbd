@@ -1,0 +1,272 @@
+﻿[
+  {
+    "shortestPath": {
+"start": {
+"identity": 39,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "MIA"
+        }
+      },
+"end": {
+"identity": 38,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PBI"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 39,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "MIA"
+            }
+          },
+          "relationship": {
+"identity": 1015,
+"start": 883,
+"end": 39,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 883,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/24/2015 01:31:18",
+"duration": 20,
+"distance": 62,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 883,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/24/2015 01:31:18",
+"duration": 20,
+"distance": 62,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1016,
+"start": 883,
+"end": 38,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 38,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PBI"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 102.0
+  },
+  {
+    "shortestPath": {
+"start": {
+"identity": 39,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "MIA"
+        }
+      },
+"end": {
+"identity": 38,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PBI"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 39,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "MIA"
+            }
+          },
+          "relationship": {
+"identity": 1015,
+"start": 883,
+"end": 39,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 883,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/24/2015 01:31:18",
+"duration": 20,
+"distance": 62,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 883,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/24/2015 01:31:18",
+"duration": 20,
+"distance": 62,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1016,
+"start": 883,
+"end": 38,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 38,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PBI"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 136
+  },
+  {
+    "shortestPath": {
+"start": {
+"identity": 39,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "MIA"
+        }
+      },
+"end": {
+"identity": 38,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PBI"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 39,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "MIA"
+            }
+          },
+          "relationship": {
+"identity": 1015,
+"start": 883,
+"end": 39,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 883,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/24/2015 01:31:18",
+"duration": 20,
+"distance": 62,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 883,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/24/2015 01:31:18",
+"duration": 20,
+"distance": 62,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1016,
+"start": 883,
+"end": 38,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 38,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PBI"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 163.2
+  }
+]
