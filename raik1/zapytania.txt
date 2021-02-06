@@ -1,0 +1,39 @@
+#1
+curl -i -XPUT -H "Content-Type:application/json" -d '{" type": "acrylic", "color": "pink", "quantity": 20, "price": 23,99}' http://172.17.0.3:8098/buckets/s22011/keys/PaintPink
+
+curl -i -XPUT -H "Content-Type:application/json" -d '{" type": "acrylic", " color": "orange", "quantity": 199, "price": 22}' http://172.17.0.3:8098/buckets/s22011/keys/PaintOrange
+
+curl -i -XPUT -H "Content-Type:application/json" -d '{" type": "acrylic", "color": "white", "quantity": 149, "price": 25}' http://172.17.0.3:8098/buckets/s22011/keys/PaintWhite
+
+curl -i -XPUT -H "Content-Type:application/json" -d '{"type": "oil", "color": "green", "quantity": 10, "price": 45}' http://172.17.0.3:8098/buckets/s22011/keys/PaintGreen
+
+curl -i -XPUT -H "Content-Type:application/json" -d '{"type": "oil", "color": "black", "quantity": 499, "price": 28}' http://172.17.0.3:8098/buckets/s22011/keys/PaintBlack
+
+#2
+curl -i http://172.17.0.3:8098/buckets/s22011/keys/PaintBlack
+
+#3
+curl -i -XPUT -H "Content-Type:application/json" -d '{"type": "oil", "color": "black", "quantity": 499, "price": 28, "expires": 2025}' http://172.17.0.3:8098/buckets/s22011/keys/PaintBlack
+
+#4
+curl -i -XPUT -H "Content-Type:application/json" -d '{"type": "oil", "color": "black", "quantity": 499, "price": 28}' http://172.17.0.3:8098/buckets/s22011/keys/PaintBlack
+
+#5
+curl -i -XPUT -H "Content-Type:application/json" -d '{" type": "oil", "color": "white", "quantity": 149, "price": 25}'http://172.17.0.3:8098/buckets/s22011/keys/PaintWhite
+
+#6
+curl -i -XDELETE http://172.17.0.3:8098/buckets/s22011/keys/PaintGreen
+
+#7
+curl -i http://172.17.0.3:8098/buckets/s22011/keys/PaintYellow
+
+#7
+curl -i -XPOST -H "Content-Type:application/json" -d '{" type": "acrylic", "color": "white", "quantity": 149, "price": 25}' http://172.17.0.3:8098/buckets/s22011/keys
+
+#9
+FWsqQvOO46UjI5TUrbCDYcnesjy
+
+curl -i http://172.17.0.3:8098/buckets/s22011/keys/FWsqQvOO46UjI5TUrbCDYcnesjy
+
+#10
+curl -i -XDELETE http://172.17.0.3:8098/buckets/s22011/keys/FWsqQvOO46UjI5TUrbCDYcnesjy

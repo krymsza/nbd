@@ -1,0 +1,120 @@
+#1
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 15:38:37 GMT
+Content-Type: application/json
+Content-Length: 0
+
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 15:50:53 GMT
+Content-Type: application/json
+Content-Length: 0
+
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 15:51:06 GMT
+Content-Type: application/json
+Content-Length: 0
+
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 15:52:03 GMT
+Content-Type: application/json
+Content-Length: 0
+
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 15:52:17 GMT
+Content-Type: application/json
+Content-Length: 0
+
+#2
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8J9gnVhbt3RzFwKAumMGUyJbHymBoPvkmXxYA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22011>; rel="up"
+Last-Modified: Sat, 06 Feb 2021 15:52:17 GMT
+ETag: "7hbgxKKoZmR7u12lPkzBQS"
+Date: Sat, 06 Feb 2021 15:56:08 GMT
+Content-Type: application/json
+Content-Length: 63
+
+{"type": "oil", "color": "black", "quantity": 499, "price": 28}#
+
+#3
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 16:01:06 GMT
+Content-Type: application/json
+Content-Length: 0
+
+#4
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 16:02:18 GMT
+Content-Type: application/json
+Content-Length: 0
+
+#5
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 16:02:57 GMT
+Content-Type: application/json
+Content-Length: 0
+
+#6
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 16:04:54 GMT
+Content-Type: application/json
+Content-Length: 0
+
+#7
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 16:06:13 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found
+
+#8
+HTTP/1.1 201 Created
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /buckets/s22011/keys/FWsqQvOO46UjI5TUrbCDYcnesjy
+Date: Sat, 06 Feb 2021 16:09:38 GMT
+Content-Type: application/json
+Content-Length: 0
+
+#9
+X-Riak-Vclock: a85hYGBgzGDKBVI8J9gnVhYdOjmDgcFPMYMpkTGPlcHJevJNviwA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22011>; rel="up"
+Last-Modified: Sat, 06 Feb 2021 16:09:38 GMT
+ETag: "3SURWFA4yl7KQg1M0chseX"
+Date: Sat, 06 Feb 2021 16:10:33 GMT
+Content-Type: application/json
+Content-Length: 68
+
+{" type": "acrylic", "color": "white", "quantity": 149, "price": 25}#
+
+#10
+# # HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sat, 06 Feb 2021 16:11:44 GMT
+Content-Type: application/json
+Content-Length: 0
