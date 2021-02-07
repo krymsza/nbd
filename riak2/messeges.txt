@@ -1,0 +1,4 @@
+Paint added, key=1234, data={u'id': u'1234', u'type': u'oli', u'color': u'pink'}
+fetched (1234) data={u'id': u'1234', u'type': u'oli', u'color': u'pink'}
+fetched paint( 1234) data={u'id': u'1234', u'type': u'oli', u'color': u'light pink'}
+deleted data( 1234) data=None
